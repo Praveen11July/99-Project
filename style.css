@@ -1,0 +1,38 @@
+.copy_right_footer {
+position: fixed;
+bottom: 0;
+width: 100%;
+text-align:center ;
+background-color: yellow;
+color: blue;
+line-height: 3;
+font-size: 22px;
+font-family: 'Franklin Gothic Medium';
+}
+
+
+
+img:hover {
+    border-radius:140px;
+}
+body {
+    background-color: antiquewhite;
+    }
+    h4 {
+        color: purple;
+}
+img {
+
+width: 36%;
+border-radius: 4px;
+padding: 10px;
+box-shadow: 0 6px 8px 0 rgba(2,2, 2,0.2);
+}
+.column{
+    display:inline;
+    padding:10px;
+}
+
+
+
+
